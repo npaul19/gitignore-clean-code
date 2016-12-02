@@ -2,6 +2,7 @@ package MoneyExample;
 
 public class Dollar {
 	private int amount;
+	
 	Dollar(int amount) {
 		this.amount = amount;
 	}
