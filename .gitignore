@@ -2,3 +2,6 @@
 .classpath
 bin/*
 .settings/*
+photo.png
+.DS_Store
+testsrc/.DS_Store
